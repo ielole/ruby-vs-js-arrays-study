@@ -13,6 +13,11 @@ Include differences in return value and chain-ablilty
 | `unshift`               |             |              |
 | `shift`                 |             |              |
 
+-push works the same way in JS and Ruby, it places an element after the last
+exhisting element in the array.
+-pop removes the last element in the array in JS and Ruby
+-shift removes the first item from an array in Ruby
+-unshift places an item in the 0 index of an array in Ruby
 
 ## Repeat Lab for JS ##
 
